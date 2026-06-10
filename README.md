@@ -1,2 +1,2 @@
 ﻿# Cohort-Card
-<h3>JETT CARD(VALORNT)</h3>
+<h3>JETT CARD(VALORANT)</h3>
